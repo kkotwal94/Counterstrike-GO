@@ -1,0 +1,6 @@
+﻿  Win32Project1.cpp
+c:\users\karan\documents\visual studio 2013\projects\win32project1\win32project1\ModelRec.h(193): warning C4005: 'usp' : macro redefinition
+          c:\users\karan\documents\visual studio 2013\projects\win32project1\win32project1\ModelRec.h(178) : see previous definition of 'usp'
+  Generating code
+  Finished generating code
+  Win32Project1.vcxproj -> C:\Users\Karan\Documents\Visual Studio 2013\Projects\Win32Project1\Release\Win32Project1.dll

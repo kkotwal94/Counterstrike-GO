@@ -1,0 +1,4 @@
+﻿  Win32Project1.cpp
+c:\users\karan\documents\visual studio 2013\projects\win32project1\win32project1\modelrec.h(193): warning C4005: 'usp' : macro redefinition
+          c:\users\karan\documents\visual studio 2013\projects\win32project1\win32project1\modelrec.h(178) : see previous definition of 'usp'
+c:\users\karan\documents\visual studio 2013\projects\win32project1\win32project1\win32project1.cpp(7): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
